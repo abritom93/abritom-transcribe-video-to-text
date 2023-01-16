@@ -1,0 +1,17 @@
+# Editor
+.vscode
+# Build
+code/dist
+# Local config
+.npmrc
+# Logs
+*.log
+*.heapsnapshot
+# Dependencies
+node_modules
+# Tests
+coverage
+test-report.json
+src/.DS_Store
+.idea
+venv
